@@ -2,4 +2,4 @@
 
 # Favourite Go Project Structure
 
-# Dependency Injection Best Practices
+# Dependency Injection Principles
